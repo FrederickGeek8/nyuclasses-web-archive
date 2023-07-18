@@ -25,8 +25,11 @@ This will take a long time. Please plug in your computer if you are using a lapt
 
 ## Setup/First Run
 
-Once you have cloned the repo and have run `cd` into the project directory,
-run `npm install` to install the dependencies neccessary for running the archiver.
+Once you have cloned the repo with
+```bash
+git clone https://github.com/FrederickGeek8/nyuclasses-web-archive.git
+```
+and have run `cd` into the new project directory, run `npm install` to install the dependencies neccessary for running the archiver.
 
 In general, you can use `npm start` to compile the program and launch it.
 **On your first run** you will have to install [the ArchiveWeb.page Chrome extension](https://archiveweb.page/)
