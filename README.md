@@ -83,6 +83,8 @@ that can be read by several tools, including
 [ReplayWeb.page](https://webrecorder.net/tools#replaywebpage) which is made by
 the same authors.
 
+![Screenshot of clicking "Browse Archive" and listing your web recordings](meta/my-recordings-screenshot.png)
+
 If the circumstances that you canceled your web archiving and would like to
 archive more, please see the **Troubleshooting** section.
 
@@ -111,7 +113,10 @@ and your data should still be there.
 I resume the archiving without redoing everything that was scraped before?
 
 **A:** You can click into your "My Web Archive" and sort the URLs by **Date**.
-There you can see the URLs that were scraped most recently. Remember from
+There you can see the URLs that were scraped most recently. 
+![Screenshot of sorting the URLs in the archive by Date](meta/sortby-date-screenshot.png)
+
+Remember from
 **Usage** that
 
 > One of the first things you'll see in your Terminal when you start archiving is
